@@ -1,0 +1,91 @@
+body {
+    background-color: gray;
+}
+
+.bigSquare  {
+    background-color: gray;
+    height: 505px;
+    width: 990px;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+}
+
+.canvas {
+    background-color: snow;
+    height: 20px;
+    width: 20px;
+    float: left;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+.bigPallete {
+    background-color: teal;
+    height: 200px;
+    width: 990px;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+}
+
+.palleteColor {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    float: left;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50px;
+    margin: 19px;
+}
+
+#white  {
+    background-color: white;
+}
+
+#black  {
+    background-color: black;
+}
+
+#red    {
+    background-color: red;
+}
+
+#blue   {
+    background-color: blue;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: green;
+}
+
+#orange {
+    background-color: orange;
+}
+
+#purple {
+    background-color: purple;
+}
+
+#gray   {
+    background-color: gray;
+}
+
+#pink   {
+    background-color: hotpink;
+}
+
+#brown  {
+    background-color: brown;
+}
+
+#currentColor   {
+    float: right;
+}
